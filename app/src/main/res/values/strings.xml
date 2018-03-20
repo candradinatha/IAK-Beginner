@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fashion Shop</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_popular">Popular</string>
+    <string name="title_men">Men</string>
+    <string name="title_women">Women</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
